@@ -67,14 +67,14 @@ internship-learning/
       <td rowspan="2">17 Jul 2026</td>
       <td>Tech</td>
       <td>Generic RDBMS<br>PL/SQL</td>
+      <td>Prompt engineering 1 (Jul 1st) </strong><br> Promt engineering 2 (Jul 2nd)</td>
       <td>-</td>
-      <td></td>
     </tr>
     <tr>
       <td>Soft Skills</td>
       <td>Effective Communication and Active Listening</td>
-      <td>09 Jul 2026<br>Live session (Online on Teams) - L&amp;D Team<br>14.00-15.30 - Trainer: Andrada Pop-Dumitru</td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td rowspan="3"><strong>Module 3</strong><br>(3 weeks)</td>
@@ -83,19 +83,19 @@ internship-learning/
       <td>Tech</td>
       <td>Git<br>GithubCopilot Academy</td>
       <td>-</td>
-      <td>1 or 2 Q&amp;A/exercise session (TBD)</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Tech</td>
       <td>Python</td>
       <td>-</td>
-      <td></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Soft Skills</td>
       <td>Time Management</td>
-      <td>23 Jul 2026<br>Live session (Online on Teams) - L&amp;D Team<br>14.00-15.30 - Trainer: Andrada Pop-Dumitru</td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td rowspan="3"><strong>Module 4</strong><br>(2 weeks)</td>
@@ -103,8 +103,8 @@ internship-learning/
       <td rowspan="3">21 Aug 2026</td>
       <td>Soft Skills</td>
       <td>Feedback</td>
-      <td>10 Aug 2026<br>Live session (Online on Teams) - L&amp;D Team<br>10.00-11.30 - Trainer: Andreea Nicolae</td>
-      <td>1 or 2 Q&amp;A/exercise session (TBD)</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Tech</td>
@@ -116,7 +116,7 @@ internship-learning/
       <td>Tech</td>
       <td>Machine Learning Fundamentals</td>
       <td>-</td>
-      <td>1 Q&amp;A/exercise session (TBD)</td>
+      <td>-</td>
     </tr>
     <tr>
       <td rowspan="3"><strong>Module 5</strong><br>(2 week)</td>
@@ -125,19 +125,19 @@ internship-learning/
       <td>Tech</td>
       <td>AM/Devops</td>
       <td>-</td>
-      <td>to move content to Dava.X #3</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Soft Skills</td>
       <td>Assertiveness</td>
-      <td>26 Aug 2026<br>Live session (Online on Teams) - L&amp;D Team<br>10.00-11.30 - Trainer: Ana-Maria Clinci</td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Disciplines</td>
       <td>Ways of working</td>
-      <td>31 Aug-04 Sep 2026<br>? online sessions with Agile Community (TBD)</td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td rowspan="3"><strong>Project Module</strong></td>
@@ -151,14 +151,14 @@ internship-learning/
     <tr>
       <td>Soft Skills</td>
       <td>Giant - 5 Voices Assessment</td>
-      <td>08 Sep 2026<br>Live session (Online on Teams) - L&amp;D Team<br>10.00-11.00 <em>partially visible</em></td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td></td>
       <td>Dava.Flow<br>&amp;<br>Work project</td>
       <td>-</td>
-      <td></td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
