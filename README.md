@@ -33,31 +33,7 @@ internship-learning/
 
 ## Learning Roadmap
 
-<style>
-  table.learning-plan {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  table.learning-plan th,
-  table.learning-plan td {
-    border: 1px solid #6b7280;
-    padding: 8px 10px;
-    vertical-align: top;
-  }
-
-  table.learning-plan th {
-    background: #f3f4f6;
-    font-weight: 700;
-  }
-
-  table.learning-plan td:first-child {
-    background: #fafafa;
-    font-weight: 600;
-  }
-</style>
-
-<table class="learning-plan" border="1" cellspacing="0" cellpadding="8">
+<table border="1" cellspacing="0" cellpadding="8" rules="all" frame="box" width="100%">
   <thead>
     <tr>
       <th>Week/Module</th>
